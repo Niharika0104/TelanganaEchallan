@@ -1,6 +1,7 @@
 # TelanganaEchallan
 # TelanganaEchallan
-![image](https://github.com/Niharika0104/TelanganaEchallan/assets/124892559/3f8f7595-44fe-4f8c-a851-358cf96614f8)
+![image](https://github.com/Niharika0104/TelanganaEchallan/assets/124892559/d1af18b0-9050-44a3-875e-d4b1ed148bf3)
+
 
 ![image](https://github.com/Niharika0104/TelanganaEchallan/assets/124892559/499144ee-17c8-4c68-8b3a-5ca2999810ce)
 ![image](https://github.com/Niharika0104/TelanganaEchallan/assets/124892559/3f6df142-dc44-47d6-b187-8d61f4d760cb)
