@@ -1,0 +1,36 @@
+﻿body{
+margin:0 !important;
+padding:0 !important;
+
+}
+.main{
+
+background-color:grey !important;
+}
+.heading {
+    width:100% !important;
+    background-color: #46879a !important;
+    border-radius: 25px 25px 0px 0px !important;
+}
+.second-heading {
+    background-color: #6fa6b9 !important;
+    color: white !important;
+}
+.hover-class {
+    border: 1px solid transparent !important;
+    color: white !important;
+    margin: 2px;
+    padding:2px;
+}
+.hover-class:hover{
+  
+   border:1px solid white !important;
+   color:brown !important;
+  
+}
+.nav-section{
+    font-size:15px !important;
+    
+}
+
+
